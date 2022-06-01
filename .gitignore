@@ -10,6 +10,10 @@
 /test/version_tmp/
 /tmp/
 
+# Do not upload uncompressed data files
+*.txt
+*.csv
+
 # Used by dotenv library to load environment variables.
 # .env
 
